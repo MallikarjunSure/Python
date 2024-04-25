@@ -1,4 +1,4 @@
-na=['balaji','subash','shetty','tejaswini','poorvi']
+na=['mallikarjun','subash','shetty','sumit','sangamesh']
 for i in na:
     print(na)
     
